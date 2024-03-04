@@ -1,0 +1,14 @@
+F:\NMC\Projects\Week 5\ClubInterface\bin\Debug\net8.0\ClubInterface.exe
+F:\NMC\Projects\Week 5\ClubInterface\bin\Debug\net8.0\ClubInterface.deps.json
+F:\NMC\Projects\Week 5\ClubInterface\bin\Debug\net8.0\ClubInterface.runtimeconfig.json
+F:\NMC\Projects\Week 5\ClubInterface\bin\Debug\net8.0\ClubInterface.dll
+F:\NMC\Projects\Week 5\ClubInterface\bin\Debug\net8.0\ClubInterface.pdb
+F:\NMC\Projects\Week 5\ClubInterface\obj\Debug\net8.0\ClubInterface.GeneratedMSBuildEditorConfig.editorconfig
+F:\NMC\Projects\Week 5\ClubInterface\obj\Debug\net8.0\ClubInterface.AssemblyInfoInputs.cache
+F:\NMC\Projects\Week 5\ClubInterface\obj\Debug\net8.0\ClubInterface.AssemblyInfo.cs
+F:\NMC\Projects\Week 5\ClubInterface\obj\Debug\net8.0\ClubInterface.csproj.CoreCompileInputs.cache
+F:\NMC\Projects\Week 5\ClubInterface\obj\Debug\net8.0\ClubInterface.dll
+F:\NMC\Projects\Week 5\ClubInterface\obj\Debug\net8.0\refint\ClubInterface.dll
+F:\NMC\Projects\Week 5\ClubInterface\obj\Debug\net8.0\ClubInterface.pdb
+F:\NMC\Projects\Week 5\ClubInterface\obj\Debug\net8.0\ClubInterface.genruntimeconfig.cache
+F:\NMC\Projects\Week 5\ClubInterface\obj\Debug\net8.0\ref\ClubInterface.dll
