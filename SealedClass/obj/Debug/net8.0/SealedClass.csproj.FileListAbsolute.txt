@@ -1,0 +1,14 @@
+F:\NMC\Projects\Week 5\SealedClass\bin\Debug\net8.0\SealedClass.exe
+F:\NMC\Projects\Week 5\SealedClass\bin\Debug\net8.0\SealedClass.deps.json
+F:\NMC\Projects\Week 5\SealedClass\bin\Debug\net8.0\SealedClass.runtimeconfig.json
+F:\NMC\Projects\Week 5\SealedClass\bin\Debug\net8.0\SealedClass.dll
+F:\NMC\Projects\Week 5\SealedClass\bin\Debug\net8.0\SealedClass.pdb
+F:\NMC\Projects\Week 5\SealedClass\obj\Debug\net8.0\SealedClass.GeneratedMSBuildEditorConfig.editorconfig
+F:\NMC\Projects\Week 5\SealedClass\obj\Debug\net8.0\SealedClass.AssemblyInfoInputs.cache
+F:\NMC\Projects\Week 5\SealedClass\obj\Debug\net8.0\SealedClass.AssemblyInfo.cs
+F:\NMC\Projects\Week 5\SealedClass\obj\Debug\net8.0\SealedClass.csproj.CoreCompileInputs.cache
+F:\NMC\Projects\Week 5\SealedClass\obj\Debug\net8.0\SealedClass.dll
+F:\NMC\Projects\Week 5\SealedClass\obj\Debug\net8.0\refint\SealedClass.dll
+F:\NMC\Projects\Week 5\SealedClass\obj\Debug\net8.0\SealedClass.pdb
+F:\NMC\Projects\Week 5\SealedClass\obj\Debug\net8.0\SealedClass.genruntimeconfig.cache
+F:\NMC\Projects\Week 5\SealedClass\obj\Debug\net8.0\ref\SealedClass.dll
