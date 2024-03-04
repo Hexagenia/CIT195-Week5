@@ -1,0 +1,14 @@
+F:\NMC\Projects\Week 5\nascar\bin\Debug\net8.0\nascar.exe
+F:\NMC\Projects\Week 5\nascar\bin\Debug\net8.0\nascar.deps.json
+F:\NMC\Projects\Week 5\nascar\bin\Debug\net8.0\nascar.runtimeconfig.json
+F:\NMC\Projects\Week 5\nascar\bin\Debug\net8.0\nascar.dll
+F:\NMC\Projects\Week 5\nascar\bin\Debug\net8.0\nascar.pdb
+F:\NMC\Projects\Week 5\nascar\obj\Debug\net8.0\nascar.GeneratedMSBuildEditorConfig.editorconfig
+F:\NMC\Projects\Week 5\nascar\obj\Debug\net8.0\nascar.AssemblyInfoInputs.cache
+F:\NMC\Projects\Week 5\nascar\obj\Debug\net8.0\nascar.AssemblyInfo.cs
+F:\NMC\Projects\Week 5\nascar\obj\Debug\net8.0\nascar.csproj.CoreCompileInputs.cache
+F:\NMC\Projects\Week 5\nascar\obj\Debug\net8.0\nascar.dll
+F:\NMC\Projects\Week 5\nascar\obj\Debug\net8.0\refint\nascar.dll
+F:\NMC\Projects\Week 5\nascar\obj\Debug\net8.0\nascar.pdb
+F:\NMC\Projects\Week 5\nascar\obj\Debug\net8.0\nascar.genruntimeconfig.cache
+F:\NMC\Projects\Week 5\nascar\obj\Debug\net8.0\ref\nascar.dll

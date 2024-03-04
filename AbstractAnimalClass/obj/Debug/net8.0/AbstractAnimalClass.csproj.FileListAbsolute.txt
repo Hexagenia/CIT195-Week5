@@ -1,0 +1,14 @@
+F:\NMC\Projects\Week 5\AbstractAnimalClass\bin\Debug\net8.0\AbstractAnimalClass.exe
+F:\NMC\Projects\Week 5\AbstractAnimalClass\bin\Debug\net8.0\AbstractAnimalClass.deps.json
+F:\NMC\Projects\Week 5\AbstractAnimalClass\bin\Debug\net8.0\AbstractAnimalClass.runtimeconfig.json
+F:\NMC\Projects\Week 5\AbstractAnimalClass\bin\Debug\net8.0\AbstractAnimalClass.dll
+F:\NMC\Projects\Week 5\AbstractAnimalClass\bin\Debug\net8.0\AbstractAnimalClass.pdb
+F:\NMC\Projects\Week 5\AbstractAnimalClass\obj\Debug\net8.0\AbstractAnimalClass.GeneratedMSBuildEditorConfig.editorconfig
+F:\NMC\Projects\Week 5\AbstractAnimalClass\obj\Debug\net8.0\AbstractAnimalClass.AssemblyInfoInputs.cache
+F:\NMC\Projects\Week 5\AbstractAnimalClass\obj\Debug\net8.0\AbstractAnimalClass.AssemblyInfo.cs
+F:\NMC\Projects\Week 5\AbstractAnimalClass\obj\Debug\net8.0\AbstractAnimalClass.csproj.CoreCompileInputs.cache
+F:\NMC\Projects\Week 5\AbstractAnimalClass\obj\Debug\net8.0\AbstractAnimalClass.dll
+F:\NMC\Projects\Week 5\AbstractAnimalClass\obj\Debug\net8.0\refint\AbstractAnimalClass.dll
+F:\NMC\Projects\Week 5\AbstractAnimalClass\obj\Debug\net8.0\AbstractAnimalClass.pdb
+F:\NMC\Projects\Week 5\AbstractAnimalClass\obj\Debug\net8.0\AbstractAnimalClass.genruntimeconfig.cache
+F:\NMC\Projects\Week 5\AbstractAnimalClass\obj\Debug\net8.0\ref\AbstractAnimalClass.dll
